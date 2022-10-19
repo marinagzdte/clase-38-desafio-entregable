@@ -1,0 +1,27 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/node_modules
+/db
+/diagnostic.data
+/journal
+/_mdb_catalog.wt
+/WiredTigerHS.wt
+/WiredTiger.wt
+/WiredTiger.turtle
+/WiredTiger.lock
+/WiredTiger
+/storage.bson
+/sizeStorer.wt
+/mongod.lock
+/index-8-7072768942020814893.wt
+/index-6-7072768942020814893.wt
+/index-5-7072768942020814893.wt
+/index-3-7072768942020814893.wt
+/index-1-7072768942020814893.wt
+/collection-7-7072768942020814893.wt
+/collection-4-7072768942020814893.wt
+/collection-2-7072768942020814893.wt
+/collection-0-7072768942020814893.wt

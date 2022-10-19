@@ -1,0 +1,8 @@
+{{#each messages}}
+<div class="chat-message">
+    <p class="chat-message-author"><strong>{{this.author.id}}</strong></p>
+    <p class="chat-message-timestamp">[{{this.timestamp}}]</p>
+    <p><img src="{{{this.author.avatar}}}" class="img-fluid" alt="..." width="25"> :</p>
+    <p class="chat-message-text">{{this.text}}</p>
+</div>
+{{/each}}
